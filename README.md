@@ -37,3 +37,48 @@ TypeScript 컴파일은 `tsc` 커맨드 사용
 }
 ```
 
+```shell
+npm install --save-dev nodemon ts-node
+```
+
+`package.json`에 scripts 추가
+```json
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon - exec ts-node src/index.ts"
+  }
+}
+
+```
+
+---
+
+## express install
+
+```shell
+npm install express
+```
+
+`src/index.ts`
+
+```typescript
+import * as express from 'express';
+
+class App {
+    public application: express.Application;
+
+    constructor() {
+        this.application = express();
+    }
+}
+
+const app = new App().application;
+
+app.get("/", (req: express.Request, res: express.Response) => {
+    res.send("hello world");
+})
+app.listen(3000, () => {
+    console.log("Server is running on port 3000");
+})
+```
