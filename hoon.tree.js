@@ -1,4 +1,5 @@
-exports.hoonTree = `<div align="center" style="background-color: black;">
+exports.hoonTree = `
+<div align="center" style="background-color: black;">
     <p style="white-space: pre-wrap; text-align: center;">
         <span style="color: yellow;">★</span>
         <span style="color: yellow">*</span><span style="color: green">""</span><span style="color: red">o</span>
@@ -39,4 +40,5 @@ font-size: 48px; font-family: 'Noto Sans Oriya'; color: cornflowerblue">Merry Ch
 text-align: right; padding-right: 38px; font-style: oblique; color: #C6FFDD;">by Hoon</div>
         </div>
     </div> 
-</div>`;
+</div>
+`;
