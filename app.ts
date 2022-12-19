@@ -12,11 +12,9 @@ const app = new App().application;
 const colors = require('colors');
 const tree = require('./tree.js')
 
+const hoonTree = require('./hoon.tree.js');
 app.get("/", async (req: express.Request, res: express.Response) => {
-
-    await res.send("<div>" +
-        "<img src='https://github.com/c-owner/algorithms-ts/raw/master/img.png' alt='tree' />" +
-        "</div>")
+    await res.send(hoonTree.hoonTree)
 
 })
 app.listen(3000, () => {
