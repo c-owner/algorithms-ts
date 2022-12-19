@@ -1,6 +1,8 @@
 # algorithms-ts
 node.js + Typescript 재미삼아 알고리즘 풀이
 
+![img.png](img.png)
+
 ## TypeScript
 
 > TypeScript, 마이크로소프트에서 개발한 오픈소스 프로그래밍 언어, 자신이 원하는 Type을 정의하고 프로그래밍을 하면 JavaScript로 컴파일되어 실행할 수 있다.

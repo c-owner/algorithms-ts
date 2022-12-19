@@ -4,7 +4,7 @@
   "description": "알고리즘 풀이용",
   "main": "src/index.ts",
   "scripts": {
-    "start": "nodemon --exec ts-node src/index.ts"
+    "start": "nodemon --exec ts-node app.ts"
   },
   "repository": {
     "type": "git",
@@ -17,10 +17,12 @@
   },
   "homepage": "https://github.com/c-owner/algorithms-ts#readme",
   "devDependencies": {
+    "colors": "^1.4.0",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
   }
 }
