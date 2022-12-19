@@ -12,8 +12,9 @@ const app = new App().application;
 const colors = require('colors');
 const tree = require('./tree.js')
 
-app.get("/", (req: express.Request, res: express.Response) => {
-    res.send("Hello World!");
+app.get("/", async (req: express.Request, res: express.Response) => {
+
+    await res.send("Hello World!");
 })
 app.listen(3000, () => {
 
