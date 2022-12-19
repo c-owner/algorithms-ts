@@ -2,6 +2,29 @@
 node.js + Typescript 재미삼아 알고리즘 풀이
 
 ![img.png](img.png)
+<p style="white-space: pre-wrap; text-align: center;">
+           <span style="color: yellow;">★</span>
+              <span style="color: yellow">*</span><span style="color: green">""</span><span style="color: red">o</span>
+            <span style="color: green;">"""<span style="color: aqua">o</span></span><span style="color: green;">""</span>
+            <span style="color: green;">"""</span><span style="color: yellow">*</span>"<span style="color: yellow">*</span><span style="color: green;">""</span>
+            <span style="color: green;">""""""</span><span style="color: red">o</span><span style="color: green;">""""""</span>
+            <span style="color: green;">""""</span>
+             <span style="color: green;">"""""</span><span style="color: yellow">*</span><span style="color: aqua">o</span>"<span style="color: aqua">o</span>
+<span style="color: green;">              """<span style="color: blueviolet">o</span>""""""</span>
+<span style="color: green;">              """<span style="color: aqua">o</span>""<span style="color: aqua">o</span>"""""</span>
+              <span style="color: green;">"""""""</span><span style="color: yellow">*</span>"<span style="color: aqua">oo</span><span style="color: green;">""""</span>
+                 <span style="color: deeppink">oo</span><span style="color: yellow">*</span><span style="color: indigo">oo</span><span style="color: green">""</span>
+                <span style="color: green;">"</span><span style="color: yellow">*</span><span style="color: green;">""</span><span style="color: yellow">*</span><span style="color: green">""</span><span style="color: aqua">o</span>
+               <span style="color: green;">"""""""""""""</span><span style="color: aqua">o</span>
+              <span style="color: green;">""""""</span><span style="color: yellow">*</span><span style="color: green;">"""""</span><span style="color: yellow">**</span><span style="color: green">""</span>
+             <span style="color: green;">""""""""""</span><span style="color: aqua">o</span><span style="color: yellow">*</span>"<span style="color: yellow">*</span><span style="color: green;">""""""</span>
+            <span style="color: aqua">o</span><span style="color:green;">"</span><span style="color: aqua">oo</span><span style="color: green;">""</span><span style="color: yellow">**</span><span style="color: aqua">o</span><span style="color: yellow">*</span><span style="color: aqua">oo</span><span style="color: green;">""""</span>
+<span style="color: yellow;">               ||</span>
+<span style="color: yellow;">              _||_</span>
+<span style="color: yellow;">              \__/</span>
+</p>
+Server is running on  Tree ✔
+
 
 ## TypeScript
 
