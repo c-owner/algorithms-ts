@@ -1,4 +1,4 @@
-exports.hoonTree = `<div align="center">
+exports.hoonTree = `<div align="center" style="background-color: black;">
     <p style="white-space: pre-wrap; text-align: center;">
         <span style="color: yellow;">★</span>
         <span style="color: yellow">*</span><span style="color: green">""</span><span style="color: red">o</span>
@@ -7,8 +7,8 @@ exports.hoonTree = `<div align="center">
         <span style="color: green;">""""""</span><span style="color: red">o</span><span style="color: green;">""""""</span>
         <span style="color: green;">""""</span>
         <span style="color: green;">"""""</span><span style="color: yellow">*</span><span style="color: aqua">o</span>"<span style="color: aqua">o</span>
-        <span style="color: green;">              """<span style="color: blueviolet">o</span>""""""</span>
-        <span style="color: green;">              """<span style="color: aqua">o</span>""<span style="color: aqua">o</span>"""""</span>
+<span style="color: green;">       """<span style="color: blueviolet">o</span>""""""</span>
+<span style="color: green;">       """<span style="color: aqua">o</span>""<span style="color: aqua">o</span>"""""</span>
         <span style="color: green;">"""""""</span><span style="color: yellow">*</span>"<span style="color: aqua">oo</span><span style="color: green;">""""</span>
         <span style="color: deeppink">oo</span><span style="color: yellow">*</span><span style="color: indigo">oo</span><span style="color: green">""</span>
         <span style="color: green;">"</span><span style="color: yellow">*</span><span style="color: green;">""</span><span style="color: yellow">*</span><span style="color: green">""</span><span style="color: aqua">o</span>
@@ -16,9 +16,9 @@ exports.hoonTree = `<div align="center">
         <span style="color: green;">""""""</span><span style="color: yellow">*</span><span style="color: green;">"""""</span><span style="color: yellow">**</span><span style="color: green">""</span>
         <span style="color: green;">""""""""""</span><span style="color: aqua">o</span><span style="color: yellow">*</span>"<span style="color: yellow">*</span><span style="color: green;">""""""</span>
         <span style="color: aqua">o</span><span style="color:green;">"</span><span style="color: aqua">oo</span><span style="color: green;">""</span><span style="color: yellow">**</span><span style="color: aqua">o</span><span style="color: yellow">*</span><span style="color: aqua">oo</span><span style="color: green;">""""</span>
-        <span style="color: yellow;">               ||</span>
-        <span style="color: yellow;">              _||_</span>
-        <span style="color: yellow;">              \__/</span>
+<span style="color: yellow;">             ||</span>
+<span style="color: yellow;">            _||_</span>
+<span style="color: yellow;">            \__/</span>
         <span style="
 color: #C6FFDD;  /* fallback for old browsers */
 ">
