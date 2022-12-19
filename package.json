@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-ts",
+  "version": "1.0.0",
+  "description": "알고리즘 풀이용",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-owner/algorithms-ts.git"
+  },
+  "author": "corner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c-owner/algorithms-ts/issues"
+  },
+  "homepage": "https://github.com/c-owner/algorithms-ts#readme"
+}
