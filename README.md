@@ -5,7 +5,7 @@ node.js + Typescript 재미삼아 알고리즘 풀이
 ----
 
 <div align="center">
-<p style="white-space: pre-wrap; text-align: center;">
+<pre style="white-space: pre-wrap; text-align: center;">
            <span style="color: yellow;">★</span>
               <span style="color: yellow">*</span><span style="color: green">""</span><span style="color: red">o</span>
             <span style="color: green;">"""<span style="color: aqua">o</span></span><span style="color: green;">""</span>
@@ -30,7 +30,7 @@ color: #C6FFDD;  /* fallback for old browsers */
 ">
 Server is running on  Tree ✔
 </span>
-</p>
+</pre>
 
 <div style=" border-radius: 24px;
 background: #C6FFDD;  /* fallback for old browsers */
